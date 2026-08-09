@@ -1,0 +1,12 @@
+
+node_modules/
+venv/
+.venv/
+.next/
+.godot/
+__pycache__/
+*.pyc
+dist/
+build/
+*.part
+*.log
